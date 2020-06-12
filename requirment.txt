@@ -1,9 +1,0 @@
-asgiref==3.2.7
-certifi==2020.4.5.2
-Django==3.0.7
-python-dateutil==2.8.1
-pytz==2020.1
-six==1.15.0
-sqlparse==0.3.1
-urllib3==1.25.9
-xero-python==0.2.2
